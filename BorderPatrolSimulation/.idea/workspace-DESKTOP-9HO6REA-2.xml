@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2eaa7508-6904-4ab2-93a4-ed37050329e2" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MukBczPWug8BEwHCeB2VWLplV5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lucky/OneDrive - Eotvos Lorand Tudomanyegyetem/EGYETEM/6_felev/Szakdolgozat_konzultacio/project/pycharm/border_patrol_simulation&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lucky\OneDrive - Eotvos Lorand Tudomanyegyetem\EGYETEM\6_felev\Szakdolgozat_konzultacio\project\pycharm\border_patrol_simulation\BorderPatrolSimulation" />
+      <recent name="C:\Users\Lucky\OneDrive - Eotvos Lorand Tudomanyegyetem\EGYETEM\6_felev\Szakdolgozat_konzultacio\project\pycharm\border_patrol_simulation\BorderPatrolSimulation\Graphics\Resources" />
+      <recent name="C:\Users\Lucky\OneDrive - Eotvos Lorand Tudomanyegyetem\EGYETEM\6_felev\Szakdolgozat_konzultacio\project\pycharm\border_patrol_simulation\BorderPatrolSimulation\Simulation" />
+      <recent name="C:\Users\Lucky\OneDrive - Eotvos Lorand Tudomanyegyetem\EGYETEM\6_felev\Szakdolgozat_konzultacio\project\pycharm\border_patrol_simulation\Simulation\Graphics\Settings" />
+      <recent name="C:\Users\Lucky\OneDrive - Eotvos Lorand Tudomanyegyetem\EGYETEM\6_felev\Szakdolgozat_konzultacio\project\pycharm\border_patrol_simulation\Simulation\Entities\RectangleEntities" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="border_patrol_simulation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\ProgramData\Anaconda3\python.exe" />
+      <option name="SDK_NAME" value="C:\ProgramData\Anaconda3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2eaa7508-6904-4ab2-93a4-ed37050329e2" name="Changes" comment="" />
+      <created>1678624721280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678624721280</updated>
+      <workItem from="1678624732490" duration="10293000" />
+      <workItem from="1678718241992" duration="992000" />
+      <workItem from="1678723102702" duration="2975000" />
+      <workItem from="1678789358415" duration="1575000" />
+      <workItem from="1678812334923" duration="2440000" />
+      <workItem from="1679067785969" duration="233000" />
+      <workItem from="1679232207830" duration="594000" />
+      <workItem from="1679232845246" duration="6051000" />
+      <workItem from="1679260064747" duration="2576000" />
+      <workItem from="1679333497079" duration="615000" />
+      <workItem from="1679349956648" duration="727000" />
+      <workItem from="1679393900734" duration="615000" />
+      <workItem from="1679437578657" duration="593000" />
+      <workItem from="1679744903965" duration="1884000" />
+      <workItem from="1679906622059" duration="1803000" />
+      <workItem from="1679921738521" duration="5202000" />
+      <workItem from="1679949147928" duration="1992000" />
+      <workItem from="1679986500666" duration="61000" />
+      <workItem from="1679987650192" duration="99000" />
+      <workItem from="1679987918771" duration="1660000" />
+      <workItem from="1679991710244" duration="1113000" />
+      <workItem from="1680125050643" duration="1108000" />
+      <workItem from="1680271181845" duration="5195000" />
+      <workItem from="1680280275073" duration="78000" />
+      <workItem from="1680335053080" duration="12911000" />
+      <workItem from="1680375717077" duration="1961000" />
+      <workItem from="1680424358170" duration="1819000" />
+      <workItem from="1680633560892" duration="206000" />
+      <workItem from="1680690375277" duration="92000" />
+      <workItem from="1680690756966" duration="2490000" />
+      <workItem from="1680786482268" duration="1296000" />
+      <workItem from="1680791763320" duration="11372000" />
+      <workItem from="1680821423824" duration="632000" />
+      <workItem from="1680867176727" duration="5241000" />
+      <workItem from="1680891367316" duration="11484000" />
+      <workItem from="1680958290613" duration="213000" />
+      <workItem from="1680980930183" duration="1187000" />
+      <workItem from="1681033010039" duration="29000" />
+      <workItem from="1681044369191" duration="2174000" />
+      <workItem from="1681049315395" duration="4291000" />
+      <workItem from="1681057508352" duration="4841000" />
+      <workItem from="1681140598075" duration="1818000" />
+      <workItem from="1681149001408" duration="129000" />
+      <workItem from="1681153035463" duration="8224000" />
+      <workItem from="1681199160083" duration="2661000" />
+      <workItem from="1681203742010" duration="1142000" />
+      <workItem from="1681244208440" duration="6131000" />
+      <workItem from="1681470195714" duration="1465000" />
+      <workItem from="1681481472975" duration="66000" />
+      <workItem from="1681481590071" duration="2332000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/border_patrol_simulation$main.coverage" NAME="main Coverage Results" MODIFIED="1681483915932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/border_patrol_simulation$simulation_window.coverage" NAME="simulation_window Coverage Results" MODIFIED="1680274305430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Simulation" />
+  </component>
+</project>

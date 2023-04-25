@@ -1,0 +1,49 @@
+{
+    "Entity" :
+    {
+        "Default" :
+        {
+            "Position" : [0, 0, 0],
+            "Speed" :
+            {
+                "Min" : 0,
+                "Default" : 1,
+                "Max" : 100
+            }
+        },
+        "Circle" :
+        {
+            "Radius" :
+            {
+                "Min" : 1,
+                "Default" : 1,
+                "Max" : 100
+            }
+        },
+        "Rectangle" :
+        {
+            "Size" :
+            {
+                "Min" : [1, 1, 1],
+                "Default" : [1, 1, 1],
+                "Max" : [100, 100, 100]
+            }
+        },
+        "Base" :
+        {
+            "Radius" : 25
+        },
+        "Invader" :
+        {
+            "Size" : [5, 5, 1],
+            "SpawnRadius" : 300,
+            "CollideRectRatio" : 3
+        },
+        "Sensor" :
+        {
+            "Size" : [5, 5, 1],
+            "MaxSpawnRadius" : 150,
+            "CollideRectRatio" : 3
+        }
+    }
+}
